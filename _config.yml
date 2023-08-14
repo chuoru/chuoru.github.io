@@ -4,8 +4,8 @@
 title: ᕕ( ᐛ )ᕗTran Thanh's blog
 description: a minimal, text focused blog theme
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
-url: "https://chuoru.github.io/" # the base hostname & protocol for your site
-# host: 0.0.0.0
+# url: "https://chuoru.github.io/" # the base hostname & protocol for your site
+host: 0.0.0.0
 
 
 #########################
@@ -56,6 +56,8 @@ exclude:
 exclude: [vendor]
 
 Blog: /blog
+
+Projects: /projects
 
 # Add general links to site pages here
 links:
