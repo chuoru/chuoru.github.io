@@ -3,20 +3,36 @@ layout: default
 title: Home
 ---
 
+This is blog about Tran Viet Thanh who want to be an universial man.
 
-[Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
+Here are some goals that I want to achieve to become who I wanna be.
 
-This is a port of it's theme to Jekyll, with some tweaks. So you can use GitHub Pages to host your blog while getting the same awesome Bear Blog feels.
+## 2023
+**Writting**
+- [ ] Finish 1 journal paper
+- [ ] Finish 1 conference paper
+- [ ] Write at least 5 technical blog posts
 
-**Stop worrying about the style, focus on your writing.**
+**Drawing**
+- [ ] Upload at least 2 short mangas
 
-- Looks great on *any* device
-- Tiny, optimized, and awesome pages
-- No trackers, ads, or scripts, *did I mention minimal already?*
-- Auto light and dark themes
-- Tag support, to filter blog pages
-- Quick, *15 minute* setup
-- Gallery view for your images
-- Code highlighting
+**Chess**
+- [ ] Reach 1600 elo on chess.com
 
-Have a look around, this website is already themed with **jekyllBear**. If you like it, head over to the GitHub [repository](https://github.com/knhash/jekyllBear) for installation instructions.
+**Music**
+- [ ] Learn 2 piano pieces
+- [ ] Learn 2 electric guitar pieces
+
+**Camping**
+- [ ] Go to 2 camping sites
+- [ ] Purchase 5 camping items
+
+**Planting** 
+- [ ] Purchase 20 plants
+- [ ] Harvest 1 vegetables
+
+**Cooking**
+- [ ] Master 10 vegetarian/vegan dishes
+
+## 2024
+What if ...
